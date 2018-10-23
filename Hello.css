@@ -1,4 +1,8 @@
 .Hello {
-	text-align:center;
+	text-align:right;
 	padding: 0 auto;
 }
+ .body{
+ 	background-color: #fff;
+ 	border-radius: 5px;
+ }
